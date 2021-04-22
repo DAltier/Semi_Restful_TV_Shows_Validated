@@ -1,0 +1,41 @@
+*{
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+
+#container{
+  width: 970px;
+}
+
+
+h1{
+  text-align: center; 
+  padding: 40px;
+}
+
+
+table {
+  width: 900px;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+
+th, td {
+  border: 1px solid black;
+  padding-right: 30px;
+  padding: 5px;
+}
+
+
+a {
+  padding-right: 5px;
+}
+
+
+#bottom_a {
+  float: left; 
+  margin-left: 50px; 
+  padding-top: 20px;
+}
